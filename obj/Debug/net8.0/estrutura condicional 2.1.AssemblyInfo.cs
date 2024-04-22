@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("estrutura condicional 2.1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98bf817884cbd41496e6e26f112109b5992dd3de")]
 [assembly: System.Reflection.AssemblyProductAttribute("estrutura condicional 2.1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("estrutura condicional 2.1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
