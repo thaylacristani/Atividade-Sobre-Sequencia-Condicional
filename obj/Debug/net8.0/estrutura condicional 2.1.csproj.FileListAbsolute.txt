@@ -1,0 +1,14 @@
+C:\Users\thayl\OneDrive\Documents\estrutura condicional 2.1\bin\Debug\net8.0\estrutura condicional 2.1.exe
+C:\Users\thayl\OneDrive\Documents\estrutura condicional 2.1\bin\Debug\net8.0\estrutura condicional 2.1.deps.json
+C:\Users\thayl\OneDrive\Documents\estrutura condicional 2.1\bin\Debug\net8.0\estrutura condicional 2.1.runtimeconfig.json
+C:\Users\thayl\OneDrive\Documents\estrutura condicional 2.1\bin\Debug\net8.0\estrutura condicional 2.1.dll
+C:\Users\thayl\OneDrive\Documents\estrutura condicional 2.1\bin\Debug\net8.0\estrutura condicional 2.1.pdb
+C:\Users\thayl\OneDrive\Documents\estrutura condicional 2.1\obj\Debug\net8.0\estrutura condicional 2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayl\OneDrive\Documents\estrutura condicional 2.1\obj\Debug\net8.0\estrutura condicional 2.1.AssemblyInfoInputs.cache
+C:\Users\thayl\OneDrive\Documents\estrutura condicional 2.1\obj\Debug\net8.0\estrutura condicional 2.1.AssemblyInfo.cs
+C:\Users\thayl\OneDrive\Documents\estrutura condicional 2.1\obj\Debug\net8.0\estrutura condicional 2.1.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Documents\estrutura condicional 2.1\obj\Debug\net8.0\estrutura condicional 2.1.dll
+C:\Users\thayl\OneDrive\Documents\estrutura condicional 2.1\obj\Debug\net8.0\refint\estrutura condicional 2.1.dll
+C:\Users\thayl\OneDrive\Documents\estrutura condicional 2.1\obj\Debug\net8.0\estrutura condicional 2.1.pdb
+C:\Users\thayl\OneDrive\Documents\estrutura condicional 2.1\obj\Debug\net8.0\estrutura condicional 2.1.genruntimeconfig.cache
+C:\Users\thayl\OneDrive\Documents\estrutura condicional 2.1\obj\Debug\net8.0\ref\estrutura condicional 2.1.dll
